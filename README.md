@@ -8,6 +8,9 @@ The Credit Score Analysis Tool automates the process of credit score evaluation 
 
 ## Project Architecture
 
+![structure_project](https://github.com/Harshal87/Credit-Score-Navigator/assets/40400416/38a23189-b58f-4f2b-bae5-513fde0f156a)
+
+
 ### 1. Client Side
 - **Frontend**: Angular 10
 - **Team**: Dedicated frontend developers team
